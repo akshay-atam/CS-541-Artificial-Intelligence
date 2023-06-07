@@ -16,7 +16,7 @@ Resources and assignments for CS 541 - Artificial Intelligence at Stevens Instit
 - Week 8: **Midterm Exam**
 - Week 9: Reinforcement Learning II
 - Week 10: Logic I
-- Week 11: Logic II
+- Week 11: Logic II (Quiz 2)
 - Week 12: Bayesian Networks I
 - Week 13: Bayesian Networks II
 - Week 14: Deep Learning
